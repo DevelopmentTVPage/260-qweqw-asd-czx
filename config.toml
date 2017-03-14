@@ -1,0 +1,10 @@
+#Hugo configuration
+title = "Local rteadf"
+baseURL = "https:\/\/qweqw.asd.czx"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+
+[params]
+loginId = "1758823"
+subfolder = ""
